@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
+"GC4OQSLRGXU3K5XRD7G2PFI2DM4PUBVQDADHTS4IK76BFQW4PDPOOF4W"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/SN5pjj1/luke.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_URL="https://www.whiplash.org"
+ORG_DESCRIPTION="In general whiplash is a neck injury due to forceful, rapid back-and-forth movement of the neck, like the cracking of a whip.In our case whiplash is the god of cryptocurrency."
+ORG_TWITTER="@whiplash"
+ORG_LOGO="https://i.ibb.co/L1YbMk6/wp.jpg"
+ORG_OFFICIAL_EMAIL="whiplash.com"
 
 
 [[CURRENCIES]]
-code="LUKE"
-issuer="GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
+code="xwp"
+issuer="GC4OQSLRGXU3K5XRD7G2PFI2DM4PUBVQDADHTS4IK76BFQW4PDPOOF4W"
 anchor_asset="false"
-name="Luke Coin"
-desc="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
-image="https://i.ibb.co/SN5pjj1/luke.jpg"
-fixed_number=1000000000
-max_number=1000000000
+name="Whiplash Token"
+desc="In general whiplash is a neck injury due to forceful, rapid back-and-forth movement of the neck, like the cracking of a whip.In our case whiplash is the god of cryptocurrency."
+image="https://i.ibb.co/L1YbMk6/wp.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#LukeCoin was issued using the open and inclusive Stellar blockchain network.
+#Whiplash Token was issued using the open and inclusive Stellar blockchain network.
